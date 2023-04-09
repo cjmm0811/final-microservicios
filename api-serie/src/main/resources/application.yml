@@ -2,6 +2,8 @@ spring:
   mongodb:
     embedded:
       version: 4.0.2
+    config:
+      uri: http://localhost:8888
   data:
     mongodb:
       database: test
