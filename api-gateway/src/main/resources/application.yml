@@ -2,4 +2,4 @@ spring:
   application:
     name: api-gateway
   config:
-    uri:
+    uri: http://localhost:8888

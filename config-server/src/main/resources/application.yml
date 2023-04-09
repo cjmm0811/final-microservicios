@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/cjmm0811/final-microservicios/tree/main/configuration
           default-label: main
           force-pull: true
           search-paths: configuration

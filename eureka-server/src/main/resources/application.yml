@@ -2,4 +2,4 @@ spring:
   application:
     name: eureka-server
     config:
-      uri:
+      uri: http://localhost:8888
