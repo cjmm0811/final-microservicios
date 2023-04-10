@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f55207-09ee-4fa3-9f58-7e245fbb9a26" name="Changes" comment="" />
+    <list default="true" id="c2f55207-09ee-4fa3-9f58-7e245fbb9a26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../api-catalog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/client/SerieServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/config/RabbitTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/CatalogResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/MovieOffline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/SerieOffline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/queue/MovieListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/queue/SerieListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/repository/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/repository/SerieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/config/RabbitMQSenderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/config/RabbitTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/controller/RegisterMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/data/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/queue/MovieSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/config/RabbitMQSenderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/config/RabbitTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/controller/RegisterSerieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/queue/SerieSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/ApiCatalogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/ApiCatalogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/client/MovieServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/client/MovieServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/controller/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/controller/CatalogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-movie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dh/movie/ApiMovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/ApiMovieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dh/movie/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dh/movie/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-serie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-serie/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/SerieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/SerieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/controller/SerieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/controller/SerieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/service/SerieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-serie/src/main/java/com/dh/serie/service/SerieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +61,9 @@
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="arn:aws:eks:us-west-2:269478442857:cluster/avla-apps-dev-us-west-2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,9 +83,29 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Github/jonathanvictorica/spring-cloud"
+    "last_opened_file_path": "C:/Users/Cristian Mendieta/Downloads/esp-backend-i-parcial-enunciado-main/api-movie/src/main/java/com/dh/movie",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-movie\src\main\java\com\dh\movie" />
+      <recent name="C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-movie\src\main\java\com\dh\movie\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApiMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dh.movie.ApiMovieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676844238635</updated>
       <workItem from="1676844238643" duration="42000" />
+      <workItem from="1681064601254" duration="6993000" />
     </task>
     <servers />
   </component>

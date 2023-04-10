@@ -28,4 +28,8 @@ public class SerieService {
         repository.save(serie);
         return serie.getId();
     }
+
+    public Serie save(Serie serie) {
+        return repository.save(serie);
+    }
 }
