@@ -1,3 +1,14 @@
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\model\Movie.java
 C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\client\MovieServiceClient.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\client\SerieServiceClient.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\config\RabbitTemplateConfig.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\queue\SerieListener.java
 C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\controller\CatalogController.java
 C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\ApiCatalogApplication.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\repository\SerieRepository.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\queue\MovieListener.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\model\CatalogResponse.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\model\SerieOffline.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\model\Serie.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\model\MovieOffline.java
+C:\Users\Cristian Mendieta\Downloads\esp-backend-i-parcial-enunciado-main\api-catalog\src\main\java\com\dh\catalog\repository\MovieRepository.java

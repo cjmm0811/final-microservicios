@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f55207-09ee-4fa3-9f58-7e245fbb9a26" name="Changes" comment="" />
+    <list default="true" id="c2f55207-09ee-4fa3-9f58-7e245fbb9a26" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../api-catalog/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/api-catalog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/api-catalog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/src/main/java/com/dh/catalog/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/ApiCatalogApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/ApiCatalogApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/client/MovieServiceClient$MovieDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/client/MovieServiceClient$MovieDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/client/MovieServiceClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/client/MovieServiceClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/controller/CatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/classes/com/dh/catalog/controller/CatalogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/surefire-reports/TEST-com.dh.catalog.ApiCatalogApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/surefire-reports/TEST-com.dh.catalog.ApiCatalogApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-catalog/target/surefire-reports/com.dh.catalog.ApiCatalogApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../api-catalog/target/surefire-reports/com.dh.catalog.ApiCatalogApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676844238635</updated>
       <workItem from="1676844238643" duration="42000" />
-      <workItem from="1681064601254" duration="7373000" />
+      <workItem from="1681064601254" duration="8213000" />
     </task>
     <servers />
   </component>
